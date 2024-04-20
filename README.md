@@ -47,7 +47,7 @@ docker run -p 7860:7860 ml-model-deployment
 ```
 
 ### Test Data and Models
-You can use image I provide on gradio or just input any image on gradio interface and set the iou and threshold
+You can use image I provide on gradio or just input any image on gradio interface and set the Comfidence and IoU threshold
 
 ### Testing the Solution 
 [![Watch the video](https://img.youtube.com/vi/Dt5taTKFw8k/0.jpg)](https://youtu.be/Dt5taTKFw8k)

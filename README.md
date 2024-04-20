@@ -66,5 +66,5 @@ To optimize the solution:
 - Auto-scaling & Monitoring: Implement auto-scaling and monitoring for efficiency and scalability.
 
 ### Bonus Points
-- The Docker image created in this solution can run the code on both CPU and GPU environments, but still doesn't optimized in GPU environment
+- The Docker image created in this solution can run the code on both CPU and GPU environments execution. However,this project still isn't optimized for GPU environments.
 - Automation of deployment on a VM or remote server can be achieved using container orchestration tools like Kubernetes or Docker Swarm.

@@ -58,12 +58,10 @@ To verify the correctness and efficiency of the solution:
 
 Achieving a 0.02-second inference time on Gradio indicates excellent performance, reflecting efficient processing and responsiveness.
 
-### Testing the Solution 
 To optimize the solution:
 
-- Model & Code Optimization: Explore techniques to enhance YOLOv5 and code efficiency.
-- Infrastructure Fine-tuning: Optimize Docker setup to minimize overhead.
-- Auto-scaling & Monitoring: Implement auto-scaling and monitoring for efficiency and scalability.
+- Model & Code Optimization: Explore techniques to enhance YOLOv8 and code efficiency.
+- Infrastructure Fine-tuning: Optimize Docker setup (CPU/GPU) to minimize overhead.
 
 ### Bonus Points
 - The Docker image created in this solution can run the code on both CPU and GPU environments execution. However,this project still isn't optimized for GPU environments.

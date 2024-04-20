@@ -50,6 +50,8 @@ docker run -p 7860:7860 ml-model-deployment
 You can use image I provide on gradio or just input any image on gradio interface and set the iou and threshold
 
 ### Testing the Solution 
+[![Watch the video](https://img.youtube.com/vi/Dt5taTKFw8k/0.jpg)](https://youtu.be/Dt5taTKFw8k)
+
 To verify the correctness and efficiency of the solution:
 
 - Unit & Integration Testing: Test individual components and their integration to ensure functionality.

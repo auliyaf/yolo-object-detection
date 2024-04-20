@@ -38,11 +38,13 @@ CMD ["python", "app.py"]
 To build the Docker image, run the following command in the terminal:
 ```bash
 docker build -t ml-model-deployment .
+```
 
 ### 5. Running the Docker Container
 To run the Docker container, execute the following command:
 ```bash
 docker run -p 7860:7860 ml-model-deployment
+```
 
 ### Test Data and Models
 You can use image I provide on gradio or just input any image on gradio and set the iou and threshold

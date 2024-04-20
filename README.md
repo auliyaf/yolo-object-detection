@@ -32,6 +32,7 @@ RUN pip install -r requirements.txt
 EXPOSE 7860
 ENV GRADIO_SERVER_NAME="0.0.0.0"
 CMD ["python", "app.py"]
+```
 
 ### 4. Building the Docker Image
 To build the Docker image, run the following command in the terminal:
